@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 393px;
+  height: 852px;
+  background: rgba(116,177,177,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 393px;
+  height: 82px;
+  background: rgba(86,81,81,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_4 {
+  width: 205px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 115px;
+  left: 18px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_5 {
+  width: 300px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 272px;
+  left: 18px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_6 {
+  width: 260px;
+  height: 68px;
+  background: rgba(71,201,162,1);
+  opacity: 1;
+  position: absolute;
+  top: 510px;
+  left: 14px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  overflow: hidden;
+}
+.v1_7 {
+  width: 184px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 529px;
+  left: 52px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_13 {
+  width: 159px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 24px;
+  left: 14px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_14 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 344px;
+  overflow: hidden;
+}
+.v1_15 {
+  width: 18px;
+  height: 12px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 3px;
+}
+.v1_16 {
+  width: 393px;
+  height: 256px;
+  background: url("../images/v1_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 596px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_52 {
+  width: 22px;
+  height: 21px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 14px;
+}
